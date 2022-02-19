@@ -1,0 +1,8 @@
+{
+    "presets": [            // trabajar con el module presets
+      "@babel/preset-env"
+    ],
+    "plugins": [            // con los plugins
+      "@babel/plugin-transform-runtime"
+    ]
+  }
